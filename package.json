@@ -1,0 +1,26 @@
+{
+  "name": "celsworth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "pack": "build --dir",
+    "dist": "build --armv7l",
+    "clean": "clean-deps"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmena2017/celsworth.git"
+  },
+  "author": "Michael Mena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmena2017/celsworth/issues"
+  },
+  "homepage": "https://github.com/mmena2017/celsworth#readme",
+  "dependencies": {
+    "electron": "^2.0.6"
+  }
+}
