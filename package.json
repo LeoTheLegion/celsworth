@@ -21,10 +21,9 @@
     "url": "https://github.com/mmena2017/celsworth/issues"
   },
   "homepage": "https://github.com/mmena2017/celsworth#readme",
-  "dependencies": {
-    "electron": "^2.0.6"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "electron": "^2.0.6",
     "electron-builder": "^20.26.1"
   }
 }
